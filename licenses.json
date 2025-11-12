@@ -1,1 +1,11 @@
-{}
+{
+    "sinirsiz": {
+        "isim": "test",
+        "olusturulma_tarihi": "2025-11-13 01:31",
+        "bitis_tarihi": "2025-12-14 01:31",
+        "aktif": true,
+        "hwid": null,
+        "son_kontrol": null,
+        "olusturan": "sistem"
+    }
+}
