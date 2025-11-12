@@ -7,5 +7,13 @@
         "hwid": null,
         "name": "TEST123",
         "last_check": null
+    },
+    "enes123": {
+        "name": "enes",
+        "created_at": "2025-11-13 01:18",
+        "expires_at": "2025-12-13 01:18",
+        "active": true,
+        "hwid": null,
+        "last_check": null
     }
 }
