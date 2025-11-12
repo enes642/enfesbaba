@@ -4,6 +4,8 @@
         "created_at": "2024-01-01",
         "expires_at": "never",
         "active": true,
-        "hwid": null
+        "hwid": null,
+        "name": "TEST123",
+        "last_check": null
     }
 }
