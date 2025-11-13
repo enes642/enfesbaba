@@ -16,5 +16,14 @@
         "hwid": null,
         "son_kontrol": null,
         "olusturan": "sistem"
+    },
+    "eness\u0131": {
+        "isim": "enes",
+        "olusturulma_tarihi": "2025-11-13 14:22",
+        "bitis_tarihi": "2025-11-14 14:22",
+        "aktif": true,
+        "hwid": null,
+        "son_kontrol": null,
+        "olusturan": "sistem"
     }
 }
